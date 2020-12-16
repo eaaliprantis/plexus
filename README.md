@@ -19,6 +19,10 @@
   <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
   </a>
+  
+  <a href="https://github.com/eaaliprantis/plexus/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="shield.png">
+  </a>
 
 </div>
 
