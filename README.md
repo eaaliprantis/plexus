@@ -1,7 +1,7 @@
 # plexus
 <h1 align="center">
   <br>
-  <a href="https://github.com/jlorezz/MinkzBot"><img src="./data/images/Minkz_header.jpg"></a>
+  <a href="https://github.com/jlorezz/MinkzBot"><img src="./data/images/thankyou.gif"></a>
   <br>
   Plexus Discord Bot
   <br>
