@@ -1,4 +1,5 @@
 # plexus
+
 <h1 align="center">
   <br>
   <a href="https://github.com/jlorezz/MinkzBot"><img src="./data/images/thankyou.gif"></a>
@@ -7,7 +8,7 @@
   <br>
 </h1>
 
-<h3 align=center>A Discord bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
+<h3 align=center>A Discord / Twitch bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
 <div align=center>
 
@@ -30,6 +31,7 @@
 </p>
 
 ## About
+
 Plexus is an open source, fully customizable Discord bot that is constantly growing. He comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. You can invite her to your Discord server using [this](https://discord.com/oauth2/authorize?client_id=788526351246032926&scope=bot&permissions=403008599) link!
 Also, you can join the official [Plexus Support Server](https://discord.gg/j57gByj3) for all questions, suggestions, and assistance!
 
