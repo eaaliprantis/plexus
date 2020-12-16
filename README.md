@@ -4,7 +4,7 @@
   <br>
   <a href="https://github.com/jlorezz/MinkzBot"><img src="./data/Images/Thankyou.gif"></a>
   <br>
-  Plexus Discord / Twitch Bot
+  Plexus Bot
   <br>
 </h1>
 
