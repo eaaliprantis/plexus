@@ -31,6 +31,12 @@
   •
   <a href="#features">Features</a>
   •
+  <a href="#installation">Installation</a>
+  •
+  <a href="#license">License</a>
+  •
+  <a href="#To-Do">To-Do</a>
+  •
   <a href="#credits">Credits</a>
 </p>
 
@@ -64,6 +70,22 @@ Plexus also comes packed with a variety of features, such as:
 - **Auto kicking** when a warn limit is reached
 - Per **command disabling**
 - And much more! There are over **30+** settings to tweak!
+
+## Installation
+
+You can add Plexus to your server with [this](https://discordapp.com/oauth2/authorize?client_id=788526351246032926&scope=bot&permissions=403008599) link! Alternatively, you can clone this repo and host the bot yourself.
+```
+git clone https://github.com/eaaliprantis/plexus.git
+```
+After cloning, run an
+```
+npm install
+```
+to snag all of the dependencies. Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/nodemon) as it makes testing *much* easier.
+
+## License
+
+Released under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
 ## To-Do
 
