@@ -40,7 +40,7 @@
 
 ## About
 
-Plexus is an open source, fully customizable Discord bot that is constantly growing. He comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. You can invite her to your Discord server using [this](https://discord.com/oauth2/authorize?client_id=788526351246032926&scope=bot&permissions=403008599) link!
+Plexus is an open source, fully customizable Discord / Twitch bot that is constantly growing. He comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. You can invite him to your Discord server using [this](https://discord.com/oauth2/authorize?client_id=788526351246032926&scope=bot&permissions=403008599) link!
 Also, you can join the official [Plexus Support Server](https://discord.gg/j57gByj3) for all questions, suggestions, and assistance!
 
 If you liked this repository, feel free to leave a star ⭐ to help promote Plexus!
