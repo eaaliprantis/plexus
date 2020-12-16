@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/jlorezz/MinkzBot"><img src="./data/images/thankyou.gif"></a>
+  <a href="https://github.com/jlorezz/MinkzBot"><img src="./data/Images/thankyou.gif"></a>
   <br>
   Plexus Discord / Twitch Bot
   <br>
@@ -18,6 +18,10 @@
 
   <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
+  </a>
+
+  <a href="https://github.com/eaaliprantis/plexus/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="shield.png">
   </a>
 
 </div>
