@@ -24,10 +24,6 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="shield.png">
   </a>
 
-  <a href="https://github.com/eaaliprantis/plexus/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="shield.png">
-  </a>
-
 </div>
 
 <p align="center">
